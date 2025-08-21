@@ -9,6 +9,11 @@ Custom WooCommerce snippet that adds “Previous” and “Next” navigation bu
 
 ---
 
+## Working Sample
+[Sansefuria.com](https://sansefuria.com/plants/alocasia-macrorrhiza-lutea-large-rbalo00/)
+
+---
+
 ## Features
 
 - Manual exclusion of categories via an array of category IDs.
